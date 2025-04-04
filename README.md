@@ -1,6 +1,7 @@
 HealthPoints
 
 A web project built with JavaScript and Firebase.
+
 🚀 Getting Started
 
 Follow these steps to set up the project locally:
